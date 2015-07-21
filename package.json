@@ -1,0 +1,9 @@
+{
+  "name"         : "node-web-scrape",
+  "version"      : "0.0.1",
+  "dependencies" : {
+   	"express"    : "4.10.0",
+    "request"    : "2.47.0",
+    "cheerio"    : "0.17.0"
+  }
+}
